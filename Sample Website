@@ -1,0 +1,48 @@
+
+
+<!DOCTYPE html> 
+<html>
+<head>
+<title> Jalela </title>
+</head>
+
+<body style="width: 400px">
+Blah Blah Blah La La La
+
+
+<p style="background-color:#009900">
+<a href= "http://www.yahoo.com"> Here is Yahoo :)</a>
+</p>
+
+<p style="background-color:rgb(255,255,0)">
+<a href="http://www.google.com"> Here is Google :)
+</p>
+
+</body>
+
+<body>
+  
+<div id="container" style+"width:500px">
+
+<div id+"header" style="background-color:purple;">
+<h1 style= "margin-bottom:0;">Jalela's Page</h1></div>
+
+<div id="menu" style="background-color:pink;height:200px;width:100px;float:left">
+<b>Menu</b><br>
+HTML<br>
+CSS<br>
+JavaScript</div>
+
+<div id="content" style="background-
+color:blue;height 200px;width:400px;float:left;">
+<p style="background-color: Orange">
+<a href="http://www.facebook.com"> Here is Facebook :)
+<p style="background-color:Pink">
+<a href="http://www.twitter.com"> Here is Twitter :) </a> </div>
+
+<div id="footer" style="background-color:yellow;clear:both;text-align:center;">
+...</div>
+
+</div>
+
+</html>
